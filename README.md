@@ -14,14 +14,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a **student** and a **MERN Stack Developer**
-- 🛡️ I also work as an **Ethical Hacker / Penetration Tester**
-- 📈 I do **SEO** (on-page, off-page, technical SEO, keyword research)
-- 🎬 I'm into **Video Editing** — content creation & storytelling
-- 🌱 Currently learning: *(Pentester,Bug Bounty)*
-- 📍 Based in: Dhaka, Bangladesh
-- 💬 Ask me about: MERN Stack, Web Security, SEO Strategy, Video Editing
-- 📫 Reach me: *(obakpatebe2277@gmail.com)*
+ I'm a **student** and a **MERN Stack Developer**
+ I also work as an **Ethical Hacker / Penetration Tester**
+ I do **SEO** (on-page, off-page, technical SEO, keyword research)
+ I'm into **Video Editing** — content creation & storytelling
+ Currently learning: *(Pentester,Bug Bounty)*
+ Based in: Dhaka, Bangladesh
+ Ask me about: MERN Stack, Web Security, SEO Strategy, Video Editing
+ Reach me: *(obakpatebe2277@gmail.com)*
 
 ---
 
